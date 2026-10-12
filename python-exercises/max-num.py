@@ -8,4 +8,4 @@ def find_max(numbers):
             max_num = num
     return max_num
 
-print(find_max([3, 41, 56, 9, 4, 12]))
+print(find_max([3, 41, 56, 9, 4, 12])) # output 56
