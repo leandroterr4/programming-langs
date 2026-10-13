@@ -13,5 +13,5 @@ function findMax($numbers) {
     return $maxNum;
 }
 
-echo findMax([3, 41, 56, 9, 4, 12]);
+echo findMax([3, 41, 56, 9, 4, 12]); // Output 56
 ?>
