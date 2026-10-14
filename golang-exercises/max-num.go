@@ -15,5 +15,5 @@ func findMax(numbers []int) int {
 
 func main() {
 	input := []int{3, 41, 56, 9, 4, 12}
-	fmt.Println(findMax(input))
+	fmt.Println(findMax(input)) // output 56
 }
